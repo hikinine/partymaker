@@ -19,15 +19,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [Discord.js](https://discord.js.org/#/)
 
-<h2>Install instructions</h2>
-<p>Primeiramente, acesse a opção do desenvolvedor do Discord e crie um bot. Você irá precisar do API KEY para continuar.</p>
-<p>Abra o arquivo chammado connection.ts e configure a sua conexão com o banco de dados. O modelo do banco de dados confere no arquivo bot.ts na interface schemaModel. 
-Feito isso adicione o seu API KEY no campo discordToken e execute o programa.
-</p>
-<h3>Instalação</h3>
-<p>yarn start<br>yarn install<br>yarn start</p>
+<h2>Getting Started</h2>
 
-<h4>Getting Started</h4>
+<h4>Instalation</h4>
 <ul>
   <li>1.1) <code>git clone https://github.com/H9Solutions/partymaker</code></li>
   <li>1.2) <code>cd partymaker</code></li>
