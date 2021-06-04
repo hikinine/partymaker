@@ -8,11 +8,11 @@
 </p>
 
 <h2>Demo</h2>
-<p align="center">
-![](demo.gif)  
-</p>
 
-### 🛠 Tecnologias
+![](./demo.gif | width=200)  
+
+
+<h2>Tecnologias 🛠 </h2>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
