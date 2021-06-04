@@ -9,7 +9,7 @@
 
 <h2>Demo</h2>
 
-![](./demo.gif | width=200)  
+![](demo.gif)  
 
 
 <h2>Tecnologias 🛠 </h2>
